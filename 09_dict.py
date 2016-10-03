@@ -6,28 +6,25 @@ cars['Punto'] = 'black' #'Punto' é a chave e 'black' o valor
 cars['Golf'] = 'grey' #'Golf' é a chave e 'grey' o valor
 cars['Cruze'] = 'green' #'Cruze' é a chave e 'green' o valor
 
-print(cars) #print(mostrar) todos atributos de todos os carros
+print(cars) #print(mostrar) as keys(chaves) e values(valores) de todos os carros
 '''
 Resposta:
 {'Golf': 'grey', 'Cruze': 'green', 'Punto': 'black'}
 '''
 
-#print(mostrar) o valor do 'Cruze'
-print(cars['Cruze'])
+print(cars['Cruze']) #print(mostrar) o valor do 'Cruze'
 '''
 Resultado:
 green
 '''
 
-#É possível buscar apenas as keys(chaves) de um dicionário
-print(cars.keys())
+print(cars.keys()) #É possível buscar apenas as keys(chaves) de um dicionário
 '''
 Resultado:
 dict_keys(['Golf', 'Punto', 'Cruze'])
 '''
 
-#Também é possível buscar apenas os values(valores) de um dicionário
-print(cars.values())
+print(cars.values()) #Também é possível buscar apenas os values(valores) de um dicionário
 '''
 Resultado:
 dict_values(['grey', 'black', 'green'])
