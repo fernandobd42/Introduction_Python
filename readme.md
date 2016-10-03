@@ -1,3 +1,8 @@
+#INTRODUÇÃO
+A linguagem de programação Python foi criada em 1989 por Guido Van Rossum, atualmente vem sendo bastante utilizada para desenvolvimento de sistemas Desktop e WEB, se trata de uma linguagem hibrida, ou seja, o código é pré-compilado para uma linguagem intermediária e depois é interpretado. É case-sensitive(sensível a caracteres maiscúlos e minúsculos), e possibilita a utilização de multiparadigmas de programação(Procedural, Orientado a Objetos e Funcional).<br>
+
+É uma linguagem simples, legível e robusta, tem suporte nativo a estrutura de dados de alto nível, a declaração de variáveis ocorre implicitamente, possui tipagem forte e dinâmica. O controle de escopo do Python é o que mais me fascina, uma vez que é definido através da indentação do código, o que obriga o programador a escrever código legível e manutenível.
+
 #INSTALAÇÃO
 https://www.python.org/downloads/
 
@@ -52,3 +57,4 @@ Utilize um editor de código a sua preferência, crie arquivos com a extensão .
 Caso utilize a primeira opção, a vantagem é que irá obter os resultados de imediato, uma vez que estará codificando pelo próprio shell do python. A desvantagem é que caso esteja por exemplo fazendo uma função e digite algo errado, irá perder tudo o que ja tinha feito, sendo preciso começar a codificar desde o inicio, exige bastante atenção e um pouco de prática para utilizar este metódo;<br>
 
 Caso utilize a segunda opção, basta escrever os códigos no editor, salvar o arquivo com extensão .py, ir até o shell e digitar a versão do python que tiver instalada na sua máquina e o arquivo que quer compilar, por exemplo, criei o arquivo aula1.py. Para compila-lo basta abrir o terminal e digitar: python aula1.py ou python3 aula1.py
+<br><br>
