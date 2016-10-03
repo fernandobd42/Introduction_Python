@@ -51,3 +51,13 @@ Resultado:
 10
 11
 '''
+print()
+
+#Criando uma função para explicar a recursividade(a função chama ela mesmo dentro de si)
+def fac(n): #fac recebe o parâmetro n
+    if n == 0: #se o valor de n for igual a 0
+        return 1 #retorna o resultado
+    else: #senão
+        return n * fac(n-1) #retorna o valor de n vezes a própria função, porém com o parâmetro modificado para decrementar
+
+print(fac(5)) #resultado: 120
