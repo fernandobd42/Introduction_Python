@@ -58,3 +58,14 @@ Caso utilize a primeira opção, a vantagem é que irá obter os resultados de i
 
 Caso utilize a segunda opção, basta escrever os códigos no editor, salvar o arquivo com extensão .py, ir até o shell e digitar a versão do python que tiver instalada na sua máquina e o arquivo que quer compilar, por exemplo, criei o arquivo aula1.py. Para compila-lo basta abrir o terminal e digitar: python aula1.py ou python3 aula1.py
 <br><br>
+
+# Material Introdução Python
+1. [Numbers](https://github.com/fernandobd42/Introduction_Python/blob/master/01_numbers.py)
+2. [Strings](https://github.com/fernandobd42/Introduction_Python/blob/master/02_strings.py)
+3. [Lists](https://github.com/fernandobd42/Introduction_Python/blob/master/03_lists.py)
+4. [Conditionals Structures](https://github.com/fernandobd42/Introduction_Python/blob/master/04_conditionals_structures.py)
+5. [Repetition Structure - For](https://github.com/fernandobd42/Introduction_Python/blob/master/05_repetition_structure_for.py)
+6. [Repetition Structure - While](https://github.com/fernandobd42/Introduction_Python/blob/master/06_repetition_structure_while.py)
+7. [Function](https://github.com/fernandobd42/Introduction_Python/blob/master/07_function.py)
+8. [Parameters](https://github.com/fernandobd42/Introduction_Python/blob/master/08_parameters.py)
+9. [Dictionary](https://github.com/fernandobd42/Introduction_Python/blob/master/09_dict.py)
