@@ -9,11 +9,11 @@ A linguagem de programação Python foi criada em 1989 por Guido Van Rossum, atu
 
 https://www.python.org/downloads/
 
-<b>Para Windows:</b>
+<b>Para Windows:</b><br>
 http://pythonclub.com.br/instalacao-python-django-windows.html
 
-<b>Para Linux</b>
-Não é necessário instalar a versão antiga do python, uma vez que ela já vem nativa no linux; para instalar a nova versão basta fazer o download no site do python ou apenas rodar o comando apt-get install python3
+<b>Para Linux:</b><br>
+Não é necessário instalar a versão antiga do python, uma vez que ela já vem nativa no linux, para instalar a nova versão basta fazer o download no site do python ou apenas rodar o comando apt-get install python3
 
 <b>Para testar a instalação vá até o terminal(shell) e digite:</b>
 ```
@@ -51,7 +51,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 
-Se aparecer isto, pronto você já pode começar a programar em python;<br>
+Se aparecer isto, pronto você já pode começar a programar em python.<br>
 
 * <b>Segunda Opção:</b><br>
 Utilize um editor de código a sua preferência, crie arquivos com a extensão .py e insira os códigos nele.<br>
@@ -59,7 +59,7 @@ Utilize um editor de código a sua preferência, crie arquivos com a extensão .
 
 #COMPILANDO O CÓDIGO
 
-Caso utilize a primeira opção, terá uma vantagem que é obter os resultados de imediato, uma vez que estará codificando pelo próprio shell do python. A desvantagem é que caso esteja por exemplo fazendo uma função e digite algo errado, irá perder tudo o que ja tinha feito, sendo preciso começar a codificar desde o inicio, exige bastante atenção e um pouco de prática para utilizar esta opção;<br>
+Caso utilize a primeira opção, terá uma vantagem que é obter os resultados de imediato, uma vez que estará codificando pelo próprio shell do python. A desvantagem é que caso esteja por exemplo fazendo uma função e digite algo errado, irá perder tudo o que ja tinha feito, sendo preciso começar a codificar desde o inicio, exige bastante atenção e um pouco de prática para utilizar esta opção.<br>
 
 Caso utilize a segunda opção, basta escrever os códigos no editor, salvar o arquivo com extensão .py, ir até o shell e digitar a versão do python que tiver instalada na sua máquina e o arquivo que quer compilar, por exemplo, criei o arquivo numbers.py, para compilar basta abrir o terminal e digitar: python numbers.py ou python3 numbers.py
 <br><br>
